@@ -1,4 +1,4 @@
-# 🛒 Telegram Shop Bot using Mealy Machine (High School Project)
+# 🛒 Telegram Shop Bot using Mealy Machine
 
 This project is a high school-level design for a Telegram-based shop bot using the concept of **Mealy Machines** from automata theory.
 

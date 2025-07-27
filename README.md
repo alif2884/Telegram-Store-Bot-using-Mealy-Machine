@@ -5,9 +5,9 @@ The bot helps users navigate a virtual store, select categories and products, an
 
 This was my first experience applying formal automata concepts (Mealy machine) in a practical project using Python.  
 
----
-
 🧠 The idea was to connect theoretical computer science (automata) with a real-world application (a Telegram bot).
+
+---
 
 ## 💡 Key Concepts
 

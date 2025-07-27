@@ -18,6 +18,8 @@ The idea was to connect theoretical computer science (automata) with a real-worl
 
 📄 **Note**: This project only includes the **flowchart and design**. There is no implementation code yet.
 
+---
+
 ## 🔧 Technologies / Topics
 
 - Automata theory

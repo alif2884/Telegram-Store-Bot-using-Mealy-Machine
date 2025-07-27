@@ -3,9 +3,9 @@
 This project simulates a Telegram shopping bot using a Mealy Machine finite state model.  
 The bot helps users navigate a virtual store, select categories and products, and confirm or cancel their order through a series of interactive messages.
 
+## 🧠 Overview
 This was my first experience applying formal automata concepts (Mealy machine) in a practical project using Python.  
-
-🧠 The idea was to connect theoretical computer science (automata) with a real-world application (a Telegram bot).
+The idea was to connect theoretical computer science (automata) with a real-world application (a Telegram bot).
 
 ---
 
@@ -26,5 +26,3 @@ This was my first experience applying formal automata concepts (Mealy machine) i
 - Telegram bot architecture (theoretical)
 
 ---
-
-🎓 **Made during high school as a creative introduction to combining theory with practical applications.**

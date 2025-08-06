@@ -1,30 +1,49 @@
 # 🛒 Telegram Shop Bot using Mealy Machine
 
-This project simulates a Telegram shopping bot using a Mealy Machine finite state model.  
-The bot helps users navigate a virtual store, select categories and products, and confirm or cancel their order through a series of interactive messages.
-
-## 🧠 Overview
-This was my first experience applying formal automata concepts (Mealy machine) in a practical project using Python.  
-The idea was to connect theoretical computer science (automata) with a real-world application (a Telegram bot).
+A simulation of a Telegram shopping bot modeled with a Mealy Machine finite state automaton.  
+The bot guides users through a virtual store, letting them select categories, products, and confirm or cancel orders via interactive messages.
 
 ---
 
-## 💡 Key Concepts
+## 🧠 Overview
 
-- Mealy Machine (finite state machine with output depending on current state & input)
-- Chatbot logic design
-- State transitions and outputs
-- Use cases in automation and user interaction
+This project represents my first practical application of formal automata theory (Mealy machines) in Python.  
+It bridges theoretical computer science concepts with real-world chatbot design.
 
-📄 **Note**: This project only includes the **flowchart and design**. There is no implementation code yet.
+---
+
+## 🔎 Features
+
+- Mealy Machine-based state management and transitions  
+- Logical design of chatbot interactions  
+- Flowchart and state diagram representation  
+- Application of theoretical models in user interaction and automation
 
 ---
 
 ## 🔧 Technologies / Topics
 
-- Automata theory
-- Mealy Machine
-- Chatbots
-- Telegram bot architecture (theoretical)
+- Automata Theory  
+- Mealy Machine  
+- Chatbot Logic  
+- Telegram Bot Architecture (Design phase)
 
 ---
+
+## ⚙️ How to Use
+
+This project currently includes only the design and flowcharts; no executable code is implemented yet.
+
+---
+
+## 📂 Files
+
+- Flowcharts and diagrams illustrating the Mealy Machine design  
+- Documentation describing state transitions and bot logic
+
+---
+
+## 📎 Notes
+
+- This is a conceptual project focusing on automata design principles applied to chatbot workflows.  
+- Implementation and deployment are planned for future development phases.
